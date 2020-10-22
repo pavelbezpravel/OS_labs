@@ -1,5 +1,4 @@
 #!/bin/bash
 
-g++ lab#01.cpp -lpthread -o lab#01
-./lab#01
-rm lab#01
+g++ lab_01.cpp -lpthread -o lab_01
+./lab_01
