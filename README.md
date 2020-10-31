@@ -3,23 +3,23 @@
 
 ## Раздел 1. Параллельное выполнение потоков в ОС.
 
-1. [Lab 1](https://github.com/pavelbezpravel/OS_labs/tree/main/lab%2301) - Создание и уничтожение потоков.
+1. [Lab 1](https://github.com/pavelbezpravel/OS_labs/tree/main/lab_01) - Создание и уничтожение потоков.
 
-2. [Lab 2](https://github.com/pavelbezpravel/OS_labs/tree/main/lab%2302) - Синхронизация потоков с помощью мьютексов.
+2. [Lab 2](https://github.com/pavelbezpravel/OS_labs/tree/main/lab_02) - Синхронизация потоков с помощью мьютексов.
 
-3. [Lab 3](https://github.com/pavelbezpravel/OS_labs/tree/main/lab%2303) - Взаимодействие потоков через неименованные каналы.
+3. [Lab 3](https://github.com/pavelbezpravel/OS_labs/tree/main/lab_03) - Взаимодействие потоков через неименованные каналы.
 
 ## Раздел 2. Параллельное выполнение процессов в ОС.
 
-4. [Lab 4](https://github.com/pavelbezpravel/OS_labs/tree/main/lab%2304) - Создание и уничтожение процессов.
+4. [Lab 4](https://github.com/pavelbezpravel/OS_labs/tree/main/lab_04) - Создание и уничтожение процессов.
 
-5. [Lab 5](https://github.com/pavelbezpravel/OS_labs/tree/main/lab%2305) - Синхронизация процессов с помощью именованных семафоров.
+5. [Lab 5](https://github.com/pavelbezpravel/OS_labs/tree/main/lab_05) - Синхронизация процессов с помощью именованных семафоров.
 
-6. [Lab 6](https://github.com/pavelbezpravel/OS_labs/tree/main/lab%2306) - Взаимодействие процессов через разделяемую память.
+6. [Lab 6](https://github.com/pavelbezpravel/OS_labs/tree/main/lab_06) - Взаимодействие процессов через разделяемую память.
 
-7. [Lab 7](https://github.com/pavelbezpravel/OS_labs/tree/main/lab%2307) - Взаимодействие процессов через именованные каналы.
+7. [Lab 7](https://github.com/pavelbezpravel/OS_labs/tree/main/lab_07) - Взаимодействие процессов через именованные каналы.
 
-8. [Lab 8](https://github.com/pavelbezpravel/OS_labs/tree/main/lab%2308) - Взаимодействие процессов через очереди сообщений.
+8. [Lab 8](https://github.com/pavelbezpravel/OS_labs/tree/main/lab_08) - Взаимодействие процессов через очереди сообщений.
 
  ## Раздел 3. Управление коммуникациями в ОС.
  
