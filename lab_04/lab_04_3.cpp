@@ -22,10 +22,10 @@ static int function(void* arg) {
     if (arg0 != NULL) {
         char* arg1 = arg0 + strlen(arg0) + 1;
         char* arg2 = arg1 + strlen(arg1) + 1;
-        execlp("./lab#04_1", arg0, arg1, arg2, NULL);
+        execlp("./lab_04_1", arg0, arg1, arg2, NULL);
     }
     else {
-        execlp("./lab#04_1", "lab#04_1", NULL);
+        execlp("./lab_04_1", "lab_04_1", NULL);
     }
 
     return 0;

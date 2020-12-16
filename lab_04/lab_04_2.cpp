@@ -31,7 +31,7 @@ int main(int argc, char* argv[]) {
         printf("parent  process ID from lab4_2: %d\n", getppid());
         printf("program process ID from lab4_2: %d\n", getpid());
 
-        execlp("./lab#04_1", "0", "1", "2", "3", NULL);
+        execlp("./lab_04_1", "0", "1", "2", "3", NULL);
     }
 
     printf("lab4_2 end\n");
